@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "url": "https://github.com/Xyling12/AutoCam-releases/releases/download/v1.7.0/AutoCam-Setup-1.7.0-x64.exe",
-  "sha256": "060a31d0b5e5ef380cc2416f88d1f88fd194b37d5f19f596a2f75f7b95325e2f",
-  "notes": "Программа понимает сообщения платы и объясняет их оператору. Предел зума берётся по модели камеры, а не по слоту. Исправлено падение при закрытии сразу после запуска."
+  "version": "1.7.1",
+  "url": "https://github.com/Xyling12/AutoCam-releases/releases/download/v1.7.1/AutoCam-Setup-1.7.1-x64.exe",
+  "sha256": "7f3e7348c8852c2566d62b47839eda912985d5343b92b914e247aba041744dab",
+  "notes": "Программа запускается быстрее. Журнал на экране больше не растёт бесконечно. Исправлено падение при закрытии в неудачный момент."
 }
