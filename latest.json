@@ -1,6 +1,6 @@
 {
-  "version": "1.7.1",
-  "url": "https://github.com/Xyling12/AutoCam-releases/releases/download/v1.7.1/AutoCam-Setup-1.7.1-x64.exe",
-  "sha256": "7f3e7348c8852c2566d62b47839eda912985d5343b92b914e247aba041744dab",
-  "notes": "Программа запускается быстрее. Журнал на экране больше не растёт бесконечно. Исправлено падение при закрытии в неудачный момент."
+  "version": "1.7.2",
+  "url": "https://github.com/Xyling12/AutoCam-releases/releases/download/v1.7.2/AutoCam-Setup-1.7.2-x64.exe",
+  "sha256": "27a80473b8460f1d00b5f00bf14374becc92f40bddfba84d4ffdf4a2bd9c4e8e",
+  "notes": "Загрузка обновления теперь показывает ход и её можно отменить. Блок «Вид программы» в боковой панели приведён к общему виду в обеих темах."
 }
